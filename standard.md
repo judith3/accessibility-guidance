@@ -11,6 +11,7 @@ We all need to think about accessibility. This includes:
 * Designers and UX designers
 * Developers
 * Content producers
+* User Researchers
 
 ## How do we do it?
 
